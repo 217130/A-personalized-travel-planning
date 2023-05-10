@@ -1,3 +1,3 @@
 # vigilant-fishstick
 
-Google developers project link- https://g.dev/Htmlsp
+Google developers profile link- https://g.dev/Htmlsp

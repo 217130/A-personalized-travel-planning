@@ -1,6 +1,6 @@
 A personalized travel planning
 
 
-Google developers profile link- g.dev/Jai14
+Google developers profile link- http//g.dev/Jai14
 
 
